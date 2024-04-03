@@ -1,0 +1,50 @@
+[
+    {
+        "titulo" :"Planeta dos Macacos",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Vingadores",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"X-Men",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Frozen",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Sintonia",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Greys Anatomy",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"The walking Dead",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Game of Thores",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Hora da Aventura",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Tom e Jerry",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Scooby Doo",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Simpsons",
+        "categoria" : "Desenho"
+    }
+]
