@@ -1,3 +1,3 @@
 # api
 
-# https://henriquedbarros.github.io/api/arquivo.json
+https://henriquedbarros.github.io/api/arquivo.json
