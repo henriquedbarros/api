@@ -1,0 +1,62 @@
+[
+    {
+        "titulo" :"Planeta dos Macacos",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczP8ekEzoOBUpPjo03ivcAPvnqG6Hg_qOX9HE0hoEQMYttfs6Ap3NjvHfUWrnMQibUtDqvhPe8gO0pqw11lggFFYD9jf4gWl78Mxw7B412Zer4_H6nUdYA2Wd4eG23155basVTlEyKm39tIp14ndhURfBw=w341-h454-s-no-gm?authuser=0",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Vingadores",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczPOCjDQSw9M43EcrT9E2cSVtMhuiZqDavrfYbPWnJDDcoij5-DSagj_HXMV_Yl-K5HtQGJGaYaGyyu5XYaujvMwwep1s4anBqvLjdBXkGIlP1g0lIfLX7CoF26RES2H2O4KXLBcVQcc1GThb4rMqvK2ZA=w250-h333-s-no-gm?authuser=0",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"X-Men",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczOQHxKtJBDLGSDvi-wjBK4pDdFJ1kf273bGnvCeFIqS_Xt1UKFU83Ua4l1x0iBityBml0pLw8FuRJ5a5UZAf258_GtKsdT_9tCoMdH9DbkyrmsSQqpuXn81GjrKMt_YUraDEnbisCt94U-LFGgRNupTwQ=w250-h333-s-no-gm?authuser=0",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Frozen",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczPiTeBiCoasc_gSYtZOyzpgSAVkKy7ZL9pYZdhvBdW3vlNhBd4xW5QOAAWfLtfGakfTNs6vWSfPTvJQ8lneABjKuetrbHWUha3_I7dQAmguwFXUbMZ_OaUGmZYGfCJlK5XhDgiRtGExGXUY4KaxSRqcbA=w329-h438-s-no-gm?authuser=0",
+        "categoria" : "Filme"
+    },
+    {
+        "titulo" :"Sintonia",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczM9Qb9sdqELmirXLXUqDgNXPmR9xmI2X-FdzMxccFijUNa97WOHhzZBY5LbWGreOC48pqQw0635jQ-0a4Tv10JY_R7pLbF_AnGWqoad6NFJyb51igcDrzlIgj2kaT8rdcZgVAUXKavQH8p-jFPcWzz8AA=w426-h568-s-no-gm?authuser=0",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Greys Anatomy",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczOU7Wp1Rlp03wjfVnAyJb6NlACiUmIt5_N32yMXWlekWHCYium2NuAVu1qSDVwzDNzx9y4Gq5Iwm8mZmgzNh3aY_lLmx0tuZ8KA_3nh1EMh3BKzzIarFM2w-fdY5dkeCYK5trZfj1_MWQUk9h4g3ea0lQ=w428-h570-s-no-gm?authuser=0",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"The walking Dead",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczPNoNhck-go0iaCajZUD16bFL14YrnenjNiiJHul5xaVrSgP1oMk2ZiFC5mJjT6LUCsJEqub7ud4KW8A3QbHRfKq59NL7AtwQqwh69j3l8DPzItluAEFkbEhXY6iK7lELolxyC4ifvIvopFa4hETcBzXw=w664-h885-s-no-gm?authuser=0",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Game of Thores",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczNo_ShFUiE4JG59mYKyIN8rbBCxJIN9xH9_s1K5hdw9EXH96b0d82g9250PeSh49_Q-DE3fOKqUhSww4-4laHpDKg_vrnKDlsP1tqUvneylNHK_4lBh3Rf9yK9dOdjxZkv2rZXCyWOtHDdGQX2pWuBQXw=w664-h885-s-no-gm?authuser=0",
+        "categoria" : "Serie"
+    },
+    {
+        "titulo" :"Hora da Aventura",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczNFh-S9P4a07AUuwe3rmzauAAPFlgdAbUHI1vOJtAuuq0oZFn3vUvdeQecmj3ADbkP8D8cABcK1DBF47xBtzmU1w3NLdBamutMS6Z7onQBj2T0GuPs1i4hn6z3gTJ__qY-M834xFRJejD7NvM7ryJWgEA=w664-h885-s-no-gm?authuser=0",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Tom e Jerry",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczN_Z4wYTkj_S6YHGeT6nYCV9GW2IlGE-DcPmLGUD4Yy4cS0edEKiWaSV6d-OZwextWC8hKJT2dvwYld2y1H1JJXrxmVPjpgsMVYpI6TgThWj4Hg2XbSx2ttDpWT2LEViTpwRiiqPOY7O-D5Q76RQT-VtQ=w183-h244-s-no-gm?authuser=0",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Scooby Doo",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczNlz8ONHJvisS_KSK_NyCJKDFPlAKiPRvUaPyv1R63A515u79KrNzs6IkCkhjc9aQfhzhHmDcPPN__DN4kRYWIlTckZqs7yyhIAoX-a9T0YBsKfUg7Na0hpJkEzSjZQfWG_OFZjApcIUqmB5rVuCP-5pQ=w565-h753-s-no-gm?authuser=0",
+        "categoria" : "Desenho"
+    },
+    {
+        "titulo" :"Simpsons",
+        "imagem" : "https://lh3.googleusercontent.com/pw/AP1GczPyEBrRvyd3OZlel0sC1_-6C5yZ4TSJVanHdeiXUb4v2kV5bjwewpwTrCOyCxT5xFMdZPqIHOgHIRw6rIlqpoSmLd52Ttp33oPOqTrA0Pv6r6Lp8OpBvpWuBRXb-XqbNSMAjnFuu_4zvgnitWQa9raO9g=w664-h885-s-no-gm?authuser=0",
+        "categoria" : "Desenho"
+    }
+]
